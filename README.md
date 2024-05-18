@@ -5,9 +5,14 @@ Project Management System created using Java 17, Spring Boot Framework and for D
 SOME FEATURES THAT INCLUDED IN THIS PROJECT MANAGEMENT SYSTEM REPOSITORY - 
 
 -> included dependecies like Spring Web, Spring Data JPA, H2 Database and Lombok
+
 -> configure with H2 databse in application.properties
+
 -> using MVC pattern for easy maintainablily, and better organization
+
 -> handle all the HTTP request, and map CRUD operations to RESTful endpoints
+
 -> respository class for extending JPA features
+
 -> provided exeption handling and data validation
   
